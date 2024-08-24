@@ -1,4 +1,4 @@
-# Hybrid ML System with Transfer Learning
+# Hybrid ML System with Transfer Learning for Chest X-ray Disease Prediction
 
 # Project "Chest X-Ray Images" from kaggle.
 
