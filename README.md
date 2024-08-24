@@ -1,4 +1,4 @@
-# Transfer-Learning
+# Hybrid ML System with Transfer Learning
 
 # Project "Chest X-Ray Images" from kaggle.
 
